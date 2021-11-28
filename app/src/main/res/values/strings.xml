@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AssignmentFlight</string>
+    <string name="year">Year</string>
+    <string name="year_one">Year :</string>
+    <string name="mission">Mission</string>
+    <string name="image_icon">image_icon</string>
+    <string name="site_name">Site Name</string>
+    <string name="launch_site">Launch Site</string>
+    <string name="rocket_type">Rocket Type</string>
+    <string name="rocket_name">Rocket Name</string>
+    <string name="rocket_id">Rocket ID</string>
+    <string name="rocket">Rocket</string>
+    <string name="local_date">Local_Date</string>
+    <string name="utc_date">UTC_Date</string>
+    <string name="more_details">More Details</string>
+    <string name="artical_link">Article_Link: </string>
+    <string name="wikipedia"> Wikipedia:</string>
+    <string name="video_link">  Video Link:</string>
+    <string name="todo">TODO</string>
+</resources>
